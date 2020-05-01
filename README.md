@@ -11,7 +11,7 @@ You can track the amount of sleep your child gets in 5 taps!
 <br />
 
 After that you will be brought back on the home screen, where records are displayed. Your newly added record will be already there! But be aware : 
-if you decide to close the app all data will lost. <br />
+if you decide to close the app all data will be lost. <br />
 **See it for yourself!** <br />
 
 
