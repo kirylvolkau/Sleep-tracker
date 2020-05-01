@@ -12,4 +12,4 @@ You can track the amount of sleep your child gets in 5 taps!
 After that you will be brought back on the home screen, where records are displayed. Your newly added record will be already there! But be aware : 
 if you decide to close the app all data will lost. <br/>
 **See it yourself!**
-![WAIT FOR GIF TO LOAD...](flutter_one.gif)
+![WAIT FOR GIF TO LOAD...](/flutter_one.gif)
